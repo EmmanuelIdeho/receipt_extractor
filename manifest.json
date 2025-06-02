@@ -1,0 +1,9 @@
+{
+    "name": "Receipt Extractor",
+    "short_name": "Receipts",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "description": "Upload receipts and export to Excel",
+    "icons": []
+  }
